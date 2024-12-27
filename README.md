@@ -1,4 +1,4 @@
-# JWT Authentication with Role-based Access Control (RBAC)
+# Task - 03: JWT Authentication with Role-based Access Control (RBAC)
 
 This project is a backend API built with **Node.js**, **Express**, **JWT** (JSON Web Tokens), and **MongoDB**. The API implements authentication and authorization using JWTs, allowing users to register, log in, and access protected routes based on their roles (admin, user, owner). Passwords are hashed using **bcrypt** for security.
 
